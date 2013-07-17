@@ -1,0 +1,24 @@
+body.my_body
+{
+	font-size: 11px;
+	font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+	margin: 0px;	
+	padding-left:50%;
+      color:#FF6600; 
+		 padding-top:10%;
+	 background-color:#CCCCCC;
+	 
+}
+#my_divition
+{
+          
+	 
+    
+	 width:700;
+	 padding:10px;
+	 margin-left:-350;
+
+	 height:300;
+}
+
+ 
